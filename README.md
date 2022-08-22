@@ -5,10 +5,10 @@
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
       </a>
       <a href="https://hh.ru/resume/9de1b36eff09dffc9e0039ed1f435842654151">
-        <img src="https://img.shields.io/badge/HH-red?style=for-the-badge&logo=HH&logoColor=white" alt="HH Badge"/>
+        <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
       </a>
-      <a href="your-twitter-URL">
-        <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+      <a href="https://www.instagram.com/i.vyvolokin">
+        <https://img.shields.io/badge/Stepik-black?logo=Stepik&logoColor=white&style=for-the-badge" alt="Stepik Badge"/>
       </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=ivyvolokin&style=flat-square&color=blue" alt=""/>
@@ -17,9 +17,7 @@
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     </h1>
   </div>
-  <div align="center">
-    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  </div>
+  
   
   ---
   
@@ -27,11 +25,13 @@
   I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
   - :telescope: I’m studying as a Python Developer and Data Specialist.
   
-  - :seedling: Exploring Technical Content Writing.
+  - :books: Exploring Technical Content Writing.
   
-  - :zap: In my free time, I solve problems on https://py.checkio.org and read tech articles.
+  - :computer: In my free time, I solve problems on <a href="https://py.checkio.org/user/ivyvolokin/">py.checkio</a> and <a href="https://stepik.org/users/309458812">learning new</a>.
   
-  - :mailbox:How to reach me: https://t.me/vyvol [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+  - :airplane: I was a pilot in the past.
+  
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-vyvol-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/vyvol)
   
   ---
   
@@ -47,6 +47,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/anaconda/anaconda-original-wordmark.svg" title="Anaconda" alt="Anaconda" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
+    <https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
     
   </div>
@@ -63,5 +64,9 @@
   
   ### :writing_hand: Blog Posts :
   <!-- BLOG-POST-LIST:START -->
+  section under development
   <!-- BLOG-POST-LIST:END -->
   
+<div align="center">
+    <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  </div>
