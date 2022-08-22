@@ -7,8 +7,8 @@
       <a href="https://hh.ru/resume/9de1b36eff09dffc9e0039ed1f435842654151">
         <img src="https://img.shields.io/badge/HeadHunter-red?style=for-the-badge&logo=HeadHunter&logoColor=white" alt="HeadHunter Badge"/>
       </a>
-      <a href="https://www.instagram.com/i.vyvolokin">
-        <https://img.shields.io/badge/Stepik-black?logo=Stepik&logoColor=white&style=for-the-badge" alt="Stepik Badge"/>
+      <a href="https://instagram.com/i.vyvol">
+        <img src="https://img.shields.io/badge/Instagram-black?logo=Instagram&logoColor=white&style=for-the-badge" alt="Instagram Badge"/>
       </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=ivyvolokin&style=flat-square&color=blue" alt=""/>
