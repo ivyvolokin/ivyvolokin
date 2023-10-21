@@ -22,7 +22,7 @@
   ---
   
   ### :man_technologist: About Me :
-  I am a Junior Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
+  I am a Python Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Moscow.
   - :telescope: I’m studying as a Python Developer and Data Specialist.
   
   - :books: Exploring Technical Content Writing.
